@@ -11,16 +11,16 @@
 <body>
 	<?php
 
-	echo 'utilizando a tag padrão';
+	echo 'utilizando a tag padrão!';
 
 	?>
 	<br>
 	<?=
 
-	'utilizando a tag de impressão aaaaaaaaaaa'
+	'utilizando a tag de impressão!'
 	?>
 	<br>
-	<? echo 'utilizando a tag curta' ?>
+	<? echo 'utilizando a tag curta!' ?>
 
 
 

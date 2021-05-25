@@ -10,7 +10,7 @@
     <?
         echo 'comando echo<br>';
 
-        print 'comando print<hr>'
+        print 'comando print<hr>';
     ?>
 </body>
 </html>
